@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to stay on my blog for awhile?
 ---
 
-My name is Hoang Ngo. I have the following qualities:
+My name is Achaemenes. I have the following qualities:
 
 - 
 - 
